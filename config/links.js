@@ -11,19 +11,19 @@ export default {
     },
     links: [
 
-        {
-            name: '🏠Official',
-            url: 'https://openthree.github.io/three-official-examples'
-        },
+        // {
+        //     name: '🏠Official',
+        //     url: 'https://openthree.github.io/three-official-examples'
+        // },
 
         {
             name: '💎WebGL',
             url: 'https://openthree.github.io/three-cesium-examples/'
         },
-        {
-            name: '🍏Editor',
-            url: 'https://z2586300277.github.io/threejs-editor/'
-        },
+        // {
+        //     name: '🍏Editor',
+        //     url: 'https://z2586300277.github.io/threejs-editor/'
+        // },
         {
             name: '🔥WebGPU',
             url: 'https://openthree.github.io/webgpu'

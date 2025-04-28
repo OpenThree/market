@@ -2,9 +2,9 @@ import { HOST, FILE_HOST } from "./host.js";
 
 export default [
     {
-        pid: 'topNavigation',
-        name: '精选导航',
-        name_en: 'Top Navigation',
+        pid: 'goodExamples',
+        name: '精选案例',
+        name_en: 'Good Examples',
         children: [
             {
                 id: 'test',

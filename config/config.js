@@ -47,9 +47,9 @@ window.HTML_TEMPLATE =
 /* 依赖注入可使用 如 线上官网 或 cdn 或者本地路径 */
 window.THREE_CESIUM_NAVIGATION = [
     {
-        name: "Github",
-        label: "Github案例",
-        label_en: "Github",
+        name: "Examples",
+        label: "案例",
+        label_en: "Examples",
         examples: githubExamples,
     }
 ]
