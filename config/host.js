@@ -11,7 +11,7 @@ const year = currentDate.getFullYear();
 const month = String(currentDate.getMonth() + 1).padStart(2, '0'); // 月份从0开始，所以需要加1
 const day = String(currentDate.getDate()).padStart(2, '0');
 const formattedDate = `${year}/${month}/${day}`;
-if (localStorage.getItem('KNOWTIP1') != formattedDate) {
+if (localStorage.getItem('KNOWTIPMarket') != formattedDate) {
     const popup = document.createElement('div');
     const popupContent = document.createElement('div');
     const closeBtn = document.createElement('button');
@@ -55,7 +55,7 @@ if (localStorage.getItem('KNOWTIP1') != formattedDate) {
     document.body.appendChild(popup);
     closeBtn.addEventListener('click', () => {
         popup.style.display = 'none'
-        localStorage.setItem('KNOWTIP1', formattedDate)
+        localStorage.setItem('KNOWTIPMarket', formattedDate)
     });
     popup.style.display = 'block';
 }
