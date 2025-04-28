@@ -10,23 +10,13 @@ export default {
         footLink: HOST
     },
     links: [
-
-        // {
-        //     name: '🏠Official',
-        //     url: 'https://openthree.github.io/three-official-examples'
-        // },
-
         {
-            name: '💎WebGL',
+            name: '🔥Three',
             url: 'https://openthree.github.io/three-cesium-examples/'
         },
-        // {
-        //     name: '🍏Editor',
-        //     url: 'https://z2586300277.github.io/threejs-editor/'
-        // },
         {
-            name: '🔥WebGPU',
-            url: 'https://openthree.github.io/webgpu'
+            name: '🌐Cesium',
+            url: 'https://jiawanlong.github.io/Cesium-Examples/examples/cesiumEx/examples.html'
         },
         {
             name: '🍃OpenThree',
