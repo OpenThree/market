@@ -39,6 +39,7 @@ if (localStorage.getItem('KNOWTIPMarket') != formattedDate) {
     <p> 希望能帮助到所有三维可视化开发者在业余盈利 🍁</p>
     <div>作品添加方式： <a href="https://github.com/OpenThree/market" target="_blank">点击跳转</a> ✋</div>
     <p>问题咨询 : <a href="https://z2586300277.github.io/" target="_blank">优雅永不过时</a> 😊</p>
+    <div>问题咨询 : <a href="https://nicowebgl.cn/nicowebgl/" target="_blank">Nico</a> 😀</div>
 `;
     Object.assign(closeBtn.style, {
         background: 'none',
