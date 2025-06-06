@@ -8,13 +8,12 @@ export default [
         children: [
             {
                 id: 'test',
-                name: '点击购买',
-                tag: '1元',
-                tip: '此案例是一个简单的开发者出售的示例',
+                name: '闲鱼出售-点击购买',
+                tag: '闲鱼链接',
                 author: 'z2586300277',
                 githubUrl: 'https://m.tb.cn/h.6z2jhUy?tk=4wkSVp5dLzW ',
                 openUrl: 'https://z2586300277.github.io/three-editor/dist/#/example',
-                image: HOST + 'images/wx_star.png',
+                image: "https://z2586300277.github.io/3d-file-server/images/threeCesiumExamples.jpg",
                 referUrl: 'https://pan.quark.cn/s/201da5c82fec',
                 links: [
                     {
@@ -27,8 +26,15 @@ export default [
                     },
 
                 ],
-                // improver: 'Threejs',
 
+            },
+            {
+                id: 'help',
+                name: '远程技术(问题、bug)咨询解决',
+                tag: '支持帮助',
+                author: 'z2586300277',
+                openUrl:  HOST + 'images/wx_star.png',
+                image: HOST + 'images/wx_star.png',
             },
             // {
             //     id: 'the ship',
