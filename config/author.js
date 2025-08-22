@@ -139,12 +139,12 @@ export default [
         id: 'nico',
         name: 'nico',
         describe: 'webgl知无不尽，canvas尽无不知，rust似水中月，wasm似镜中花，线性代数就在脚下，而shader路遥且长',
-        github: 'https://nicowebgl.cn/nicowebgl/',
+        github: 'https://nicowebgl.cn/',
         icon: 'https://avatars.githubusercontent.com/u/56536031?v=4',
         links: [
             {
                 name: '🏠主页',
-                url: 'http://nicowebgl.cn/portfolio/#/my_resume'
+                url: 'http://nicowebgl.cn'
             }
         ]
     },

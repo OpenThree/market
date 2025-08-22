@@ -11,7 +11,7 @@ export default [
                 name: '闲鱼出售-点击购买',
                 tag: '闲鱼链接',
                 author: 'z2586300277',
-                githubUrl: 'https://m.tb.cn/h.6z2jhUy?tk=4wkSVp5dLzW ',
+                githubUrl: 'https://m.tb.cn/h.hF9cMKQ?tk=mSJl4PCCS3b',
                 openUrl: 'https://z2586300277.github.io/three-editor/dist/#/example',
                 image: "https://z2586300277.github.io/3d-file-server/images/threeCesiumExamples.jpg",
                 referUrl: 'https://pan.quark.cn/s/201da5c82fec',
@@ -55,7 +55,7 @@ export default [
                 tip: '船的航行仿真',
                 author: 'nico',
                 githubUrl: HOST + 'images/nico_wx.jpg',
-                openUrl: 'https://nicowebgl.cn/ocean_three/ocean/',
+                openUrl: 'https://z2586300277.github.io/show-site/shipProject/#/ocean',
                 image: HOST + 'images/ship.png',
                 // referUrl: 'https://pan.quark.cn/s/201da5c82fec',
             }
