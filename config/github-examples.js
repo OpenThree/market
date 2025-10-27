@@ -11,8 +11,8 @@ export default [
                 name: '闲鱼出售-点击购买',
                 tag: '闲鱼链接',
                 author: 'z2586300277',
-                githubUrl: 'https://m.tb.cn/h.hF9cMKQ?tk=mSJl4PCCS3b',
-                openUrl: 'https://z2586300277.github.io/three-editor/dist/#/example',
+                githubUrl: 'https://www.goofish.com/personal?userId=2885508577',
+                openUrl: 'https://www.goofish.com/personal?userId=2885508577',
                 image: "https://z2586300277.github.io/3d-file-server/images/threeCesiumExamples.jpg",
                 referUrl: 'https://pan.quark.cn/s/201da5c82fec',
                 links: [
