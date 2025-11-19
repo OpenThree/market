@@ -72,6 +72,51 @@ export default [
                 author: 'z2586300277',
                 openUrl: HOST + 'jkpt/index.html',
                 image: HOST + 'jkpt/index.png',
+            },
+            {
+                id: 'digitalFarm',
+                name: '智慧农场',
+                name_en: 'digitalFarm',
+                author: 'AUTO',
+                githubUrl: 'https://github.com/gyrate/digitalFarm',
+                openUrl: 'https://gyrate.github.io/digitalFarm/dist/index.html',
+                image: 'https://z2586300277.github.io/three-cesium-examples/' + 'threeExamples/openSource/digitalFarm.jpg'
+            },
+            {
+                id: 'digitalTraffic',
+                name: '数字交通',
+                name_en: 'Digital Traffic',
+                author: 'AUTO',
+                githubUrl: 'https://github.com/gyrate/digitalTraffic',
+                openUrl: 'https://gyrate.github.io/digitalTraffic/dist/index.html#/index',
+                image: 'https://z2586300277.github.io/three-cesium-examples/threeExamples/openSource/digitalTraffic.jpg'
+            },
+            {
+                id: 'StationMonitor',
+                name: '站点监控',
+                name_en: 'Station Monitor',
+                author: 'AUTO',
+                openUrl: 'https://fengtianxi001.github.io/MF-StationMonitor/',
+                githubUrl: 'https://github.com/fengtianxi001/MF-StationMonitor',
+                image: 'https://z2586300277.github.io/three-cesium-examples/threeExamples/openSource/StationMonitor.jpg'
+            },
+            {
+                id: 'feng_ji',
+                name: '风机',
+                name_en: 'Wind Turbine',
+                author: 'AUTO',
+                openUrl: 'https://fengtianxi001.github.io/MF-TurbineMonitor',
+                githubUrl: 'https://github.com/fengtianxi001/MF-TurbineMonitor',
+                image: FILE_HOST + 'images/fengji.jpg'
+            },
+            {
+                id: 'numberFram',
+                name: '数字农场',
+                name_en: 'Number Fram',
+                author: 'FFMMCC',
+                githubUrl: 'https://gitee.com/fu-meichuan/digital-farmland',
+                openUrl: 'https://coderfmc.github.io/three.js-demo/digital-farmland/#/carbon-neutral-bigscreen',
+                image: 'https://coderfmc.github.io/three.js-demo/fmc-web-3d/img/智慧农田.png'
             }
 
         ]
