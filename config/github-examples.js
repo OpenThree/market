@@ -58,6 +58,20 @@ export default [
                 openUrl: 'https://z2586300277.github.io/show-site/shipProject/#/ocean',
                 image: HOST + 'images/ship.png',
                 // referUrl: 'https://pan.quark.cn/s/201da5c82fec',
+            },
+            {
+                id: 'zhxq',
+                name: '智慧小区',
+                author: 'z2586300277',
+                openUrl: HOST + 'zhxq/index.html',
+                image: HOST + 'zhxq/index.png',
+            },
+            {
+                id: 'jkpt',
+                name: '监控平台',
+                author: 'z2586300277',
+                openUrl: HOST + 'jkpt/index.html',
+                image: HOST + 'jkpt/index.png',
             }
 
         ]
