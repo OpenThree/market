@@ -42,7 +42,7 @@ if (localStorage.getItem('KNOWTIPMarket') != formattedDate) {
     <div>问题咨询 : <a href="https://nicowebgl.cn/" target="_blank">Nico</a> 😀</div>
 `;
     Object.assign(closeBtn.style, {
-        background: 'none',
+        background: '#ffffff',
         border: 'none',
         fontSize: '24px',
         color: '#aaa',
