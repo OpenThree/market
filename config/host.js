@@ -28,8 +28,10 @@ if (localStorage.getItem('KNOWTIPMarket') != formattedDate) {
         transition: 'all 0.3s ease'
     });
     Object.assign(popupContent.style, {
+        borderRadius: '10px',
         color: '#333',
         padding: '20px',
+        background: '#ffffff',
         position: 'relative'
     });
     popupContent.innerHTML = `
