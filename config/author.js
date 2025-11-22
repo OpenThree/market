@@ -470,7 +470,7 @@ export default [
             }
         ],
         github: 'https://coderfmc.github.io/three.js-demo/fmc-web-3d/',
-        icon: HOST + 'files/author/FFMMCC.jpg'
+        icon: HOST + 'files/site/logo.svg',
     },
 
     {

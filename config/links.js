@@ -5,7 +5,7 @@ export default {
     site: {
         name: '3D Market',
         url: 'https://threejs.org/',
-        logo: 'https://openthree.github.io/three-offical-run/examples/files/site/logo.svg',
+        logo: HOST + 'files/site/logo.svg',
         footName: '- Home',
         footLink: HOST
     },

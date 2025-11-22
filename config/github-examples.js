@@ -117,6 +117,15 @@ export default [
                 githubUrl: 'https://gitee.com/fu-meichuan/digital-farmland',
                 openUrl: 'https://coderfmc.github.io/three.js-demo/digital-farmland/#/carbon-neutral-bigscreen',
                 image: 'https://coderfmc.github.io/three.js-demo/fmc-web-3d/img/智慧农田.png'
+            },
+            {
+                id: "sc-datav",
+                name: "四川3D地图",
+                name_en: "SC DataV",
+                author: "knight-L",
+                openUrl: "https://knight-l.github.io/sc-datav/",
+                githubUrl: "https://github.com/knight-L/sc-datav",
+                image: 'https://z2586300277.github.io/three-cesium-examples/' + "threeExamples/openSource/scDatav.jpg",
             }
 
         ]
