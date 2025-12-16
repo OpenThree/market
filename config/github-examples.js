@@ -126,7 +126,25 @@ export default [
                 openUrl: "https://knight-l.github.io/sc-datav/",
                 githubUrl: "https://github.com/knight-L/sc-datav",
                 image: 'https://z2586300277.github.io/three-cesium-examples/' + "threeExamples/openSource/scDatav.jpg",
-            }
+            },
+               {
+                id: "heat3dMap",
+                name: "热力3D地图",
+                name_en: "Heat 3d Map",
+                author: "knight-L",
+                openUrl: "https://knight-l.github.io/sc-datav/#/demo1",
+                githubUrl: "https://github.com/knight-L/sc-datav",
+                image: 'https://z2586300277.github.io/three-cesium-examples/' + "threeExamples/openSource/heat3dMap.jpg",
+            },
+            {
+                id: 'blanderCar',
+                author: 'ASouthernCat',
+                name: '硬核小车',
+                name_en: 'Blender Car',
+                githubUrl: 'https://github.com/ASouthernCat/simple-muscle-car',
+                openUrl: 'https://g2657.github.io/examples-server/blender_car/',
+                image: 'https://z2586300277.github.io/three-cesium-examples/' + 'threeExamples/openSource/blenderCar.jpg',
+            },
 
         ]
 
