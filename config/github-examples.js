@@ -33,7 +33,7 @@ export default [
                 name: '远程技术(问题、bug)咨询解决',
                 tag: '支持帮助',
                 author: 'z2586300277',
-                openUrl:  HOST + 'images/wx_star.png',
+                openUrl: HOST + 'images/wx_star.png',
                 image: HOST + 'images/wx_star.png',
             },
             // {
@@ -127,7 +127,7 @@ export default [
                 githubUrl: "https://github.com/knight-L/sc-datav",
                 image: 'https://z2586300277.github.io/three-cesium-examples/' + "threeExamples/openSource/scDatav.jpg",
             },
-               {
+            {
                 id: "heat3dMap",
                 name: "热力3D地图",
                 name_en: "Heat 3d Map",
@@ -144,6 +144,16 @@ export default [
                 githubUrl: 'https://github.com/ASouthernCat/simple-muscle-car',
                 openUrl: 'https://g2657.github.io/examples-server/blender_car/',
                 image: 'https://z2586300277.github.io/three-cesium-examples/' + 'threeExamples/openSource/blenderCar.jpg',
+            },
+            {
+                id: 'fmc_car',
+                name: '麦克斯韦汽车',
+                name_en: 'FMC Car',
+                author: 'FFMMCC',
+                tip: '效果超级棒的 three.js实现麦克斯韦汽车展厅项目',
+                openUrl: 'https://g2657.github.io/examples-server/fmc_car/',
+                githubUrl: 'https://coderfmc.github.io/three.js-demo/fmc-web-3d/',
+                image: 'https://z2586300277.github.io/3d-file-server/' + 'images/fmc_car.jpg'
             },
 
         ]
